@@ -102,13 +102,15 @@ There are 3 parameters that affect performance: blocks, threads per block, and k
 
 `Keys per thread:` The performance (keys per second) increases asymptotically with this value. The default is 16. Increasing this value will cause the kernel to run longer, but more keys will be processed.
 
+## Discussion
+
+Go to the [bitcointalk forum](https://bitcointalk.org/index.php?topic=4453897.0) for discussions about this software
 
 ## Supporting this project
 
 If you find this project useful and would like to support it, consider making a donation. Your support is greatly appreciated!
 
+### brichard19's donation addresses:
 **BTC**: `1LqJ9cHPKxPXDRia4tteTJdLXnisnfHsof`
-
 **LTC**: `LfwqkJY7YDYQWqgR26cg2T1F38YyojD67J`
-
 **ETH**: `0xd28082CD48E1B279425346E8f6C651C45A9023c5`
